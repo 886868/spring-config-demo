@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="configclient" />
         <module name="configclientha" />
+        <module name="configclienthabus" />
         <module name="configclientloacl" />
         <module name="confighub" />
         <module name="confighubha" />

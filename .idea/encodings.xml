@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-client-ha" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-client-ha-bus" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-client-loacl" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-hub" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-hub-ha" charset="UTF-8" />
