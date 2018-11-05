@@ -7,9 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="configclient" />
+        <module name="configclientha" />
         <module name="configclientloacl" />
         <module name="confighub" />
+        <module name="confighubha" />
         <module name="confighublocal" />
+        <module name="eurekaserver" />
       </profile>
     </annotationProcessing>
   </component>

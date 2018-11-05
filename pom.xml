@@ -13,6 +13,10 @@
         <module>config-client</module>
         <module>config-hub-local</module>
         <module>config-client-loacl</module>
+        <module>eureka-server</module>
+        <module>config-hub-ha</module>
+        <module>config-client-ha</module>
+        <module>config-client-ha-bus</module>
     </modules>
 
     <parent>
